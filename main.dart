@@ -16,5 +16,4 @@ void main() {
   print(isSimple(29)); 
 }
   
-}
   
